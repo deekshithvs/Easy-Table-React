@@ -4,7 +4,7 @@
  
  <br><br>
  <b>Data Format<b>
- <format>
+ <pre>
    headers : {
        columns: [{
           accessor: "column name", //key wich is used to access data from data list
@@ -27,5 +27,5 @@
             }
             .
             .
-          ]
-</format>
+  ]
+</pre>
